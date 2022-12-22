@@ -1,0 +1,1 @@
+all simple shell tasks
